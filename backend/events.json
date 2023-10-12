@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"afda","image":"https://www.weddingsutra.com/images/Vendor_Images/Wedding_Planners/Version-Events-and-Weddings/version-events-weddings-01.jpg","date":"2023-10-12","description":"dafa","id":"b2406d05-dcec-41c6-854f-0cff83603e72"},{"title":"SDdS","image":"https://img.freepik.com/premium-photo/beautiful-interior-large-festive-hall-decorated-tables-with-food_713163-1054.jpg","date":"2023-11-09","description":"AFADF","id":"eb2ed8a2-ee0c-40b7-b92c-378c2583df68"},{"title":"dafad","image":"https://img.freepik.com/free-photo/restaurant-hall-with-tables-decorated-with-tall-vases-with-roses_1304-4823.jpg","date":"2023-10-19","description":"daf","id":"e023af6b-e76c-481e-8a43-cafbbdf4a076"}],"users":[{"email":"test@test.com","password":"$2a$12$gt2v4b3XYKFAF6frdUuFFOR6pP73o.nJCu44zejqaXHEUZ15NqP5u","id":"596b98e9-2cfb-483c-90f3-03dccd6d97d1"},{"email":"test2@test.com","password":"$2a$12$w00Grt5oeu.xRhaYabFROud1/dBUtGUuQ84pyy4K5E/yjTatHcDye","id":"da839f39-be16-48f9-bd46-1ad8f451a14f"}]}
